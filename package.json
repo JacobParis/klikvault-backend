@@ -1,0 +1,28 @@
+{
+  "name": "klikvault-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Klikvault Game Repository",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.30",
+    "mz": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobPariseau/klikvault-backend.git"
+  },
+  "author": "Jacob Pariseau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobPariseau/klikvault-backend/issues"
+  },
+  "homepage": "https://github.com/JacobPariseau/klikvault-backend#readme"
+}
